@@ -72,6 +72,10 @@ class Graficky(object):
  - Future: support for generating URLs for visual graphs? support for saving
    metrics to disk with something like pickle? some useful things for
    instrumenting performance and sending to Graphite? < might already exist
+
+   For operations not supported by API, offer a plugin that can ssh into hosts
+   and do what you want
+
  - Rackspace Cloud Metrics integration? Other Graphite as a service
    integrations?
 '''
