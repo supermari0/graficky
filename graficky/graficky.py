@@ -30,6 +30,7 @@ class Graficky(object):
 '''
  Things this should support:
  - Python 2.7 and 3!
+ - Maybe use carbonate, library for interfacing with Carbon?
  - Working with multiple Graphite Hosts simultaneously
     - Maybe have a Graficky have 1 host for the default, and support multiple
       hosts. Graficky has parallel option that is False by default, throws
