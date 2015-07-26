@@ -1,5 +1,7 @@
 # graficky
 
+This project is on hold indefinitely
+
 Querying and working with Graphite can be messy. Graficky will be a Python
 library to interface with the Graphite web API to easily create metrics, query
 them, and apply Graphite built-in functions to them.
